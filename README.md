@@ -11,10 +11,6 @@
 1. （必做）：不改变现有代码，只需添加新的抽象工厂，即可添加新的风格
 2. （选做）：通过配置文件，可添加新的图标族
 
-### 类图
-
-![uml.drawio](C:\mac\OneDrive - 中山大学\软工\Design Pattern 习题\fje\uml.drawio.png)
-
 ### 设计模式说明
 
 #### 工厂方法模式
@@ -51,12 +47,4 @@
 ]
 ```
 
-### 运行截图
-
-![1](C:\mac\OneDrive - 中山大学\软工\Design Pattern 习题\fje\1.png)
-
-![2](C:\mac\OneDrive - 中山大学\软工\Design Pattern 习题\fje\2.png)
-
-![3](C:\mac\OneDrive - 中山大学\软工\Design Pattern 习题\fje\3.png)
-
-![4](C:\mac\OneDrive - 中山大学\软工\Design Pattern 习题\fje\4.png)
+该项目是Java项目，需要配置好Java环境才能运行。
